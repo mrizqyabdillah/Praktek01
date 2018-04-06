@@ -11,7 +11,7 @@ package praktek01;
  */
 public class BioskopAksi2 {
     public static void main(String[] args) {
-        
+        Bioskop XXI = new Bioskop();
     }
    
     
