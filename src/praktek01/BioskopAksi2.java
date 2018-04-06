@@ -18,6 +18,8 @@ public class BioskopAksi2 {
         XXI.Harga=45000;
         XXI.Tempat_Duduk="A1";
         XXI.Jenis_Film="Komedi";
+        
+        XXI.cetakInfo();
     }
    
     
