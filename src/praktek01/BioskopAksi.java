@@ -18,5 +18,7 @@ public class BioskopAksi {
          Cinemax.Harga=65000;
          Cinemax.Tempat_Duduk="C9";
          Cinemax.Jenis_Film="Horor";
+         
+         Cinemax.cetakInfo();
     }
 }
