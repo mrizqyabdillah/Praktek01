@@ -12,5 +12,11 @@ package praktek01;
 public class BioskopAksi {
     public static void main(String[] args) {
          Bioskop Cinemax = new Bioskop();
+         
+         Cinemax.Nama_Bioskop="Cinemax Banjarbaru";
+         Cinemax.Jadwal="Minggu";
+         Cinemax.Harga=65000;
+         Cinemax.Tempat_Duduk="C9";
+         Cinemax.Jenis_Film="Horor";
     }
 }
