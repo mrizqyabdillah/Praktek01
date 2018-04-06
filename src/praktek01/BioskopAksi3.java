@@ -18,5 +18,7 @@ public class BioskopAksi3 {
         Cineplex.Harga=50000;
         Cineplex.Tempat_Duduk="B7";
         Cineplex.Jenis_Film="Romantis";
+        
+        Cineplex.cetakInfo();
     }
 }
